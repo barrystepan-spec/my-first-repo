@@ -1,4 +1,6 @@
-12321321
-dasdasdasd
-12321321321321
-2222
+x = 1
+
+if x>1:
+    print(1)
+else:
+    print(2)
